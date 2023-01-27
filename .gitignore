@@ -1,2 +1,6 @@
 #macOS files
-**/.DS_Store∑
+**/.DS_Store
+
+##system files for erd and bkp 
+.$order_transaction.drawio.bkp
+.$order_transaction.drawio.dtmp
